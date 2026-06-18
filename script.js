@@ -1,7 +1,7 @@
 'use strict';
 
 const ptToLevel = {
-        "Bauchbänder": "Level 15",
+        "Bauchbänder": "Level 1",
         "Netztelefon": "Level 5",
         "Babybadetuch": "Level 1",
         "Babybadewanne": "Level 1",
@@ -596,7 +596,7 @@ const ptToLevel = {
         "Gasgrill": "Level 1",
         "Gefahrenmelder": "Level 1",
         "Gehörschutz": "Level 1",
-        "Geldkassette": "Level 1",
+        "Geldkassette": "Level 41",
         "Gewächshaus": "Level 1",
         "Gewindeschneider + Gewindebohrer": "Level 1",
         "Giesskanne": "Level 1",
