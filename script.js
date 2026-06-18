@@ -1,7 +1,7 @@
 'use strict';
 
 const ptToLevel = {
-        "Bauchbänder": "Level 1",
+        "Bauchbänder": "Level 15",
         "Netztelefon": "Level 5",
         "Babybadetuch": "Level 1",
         "Babybadewanne": "Level 1",
