@@ -596,7 +596,7 @@ const ptToLevel = {
         "Gasgrill": "Level 1",
         "Gefahrenmelder": "Level 1",
         "Gehörschutz": "Level 1",
-        "Geldkassette": "Level 19",
+        "Geldkassette": "Level 1",
         "Gewächshaus": "Level 1",
         "Gewindeschneider + Gewindebohrer": "Level 1",
         "Giesskanne": "Level 1",
