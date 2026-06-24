@@ -482,6 +482,7 @@ const ptToLevel = {
         "Synthesizer": "Level 1",
         "Tasteninstrument Zubehör": "Level 1",
         "Tonabnehmer": "Level 1",
+        "TV Möbel": "Level 1",
         "TV": "Sondertaetigkeit",
         "TV Halterung Zubehör": "Level 1",
         "TV Receiver Zubehör": "Level 1",
