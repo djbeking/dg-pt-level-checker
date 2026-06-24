@@ -420,7 +420,7 @@ const ptToLevel = {
         "Instrumentenverstärker": "Level 1",
         "Kabel Zubehör": "Level 1",
         "Keyboard": "Level 1",
-        "Kopfhörer": "Level 1 | InEars & Apple Over Ear Sondertaetigkeit",
+        "Kopfhörer": "Level 1 | In Ears & Apple Over Ear Sondertaetigkeit",
         "Kopfhörer Ersatzteile": "Level 1",
         "Kopfhörerständer": "Level 1",
         "Kopfhörertasche + Schutzhülle": "Level 1",
