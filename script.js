@@ -430,6 +430,7 @@ const ptToLevel = {
         "Lautsprecherkabel": "Level 1",
         "Leinwand": "Level 1",
         "Leinwand Zubehör": "Level 1",
+        "Leuchtmittel": "Level 1",
         "Lichtsteuerung": "Level 1",
         "Lichttechnik Leuchtmittel": "Level 1",
         "Lichttechnik Zubehör": "Level 1",
