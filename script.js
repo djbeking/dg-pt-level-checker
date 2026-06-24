@@ -436,6 +436,7 @@ const ptToLevel = {
         "Lichtsteuerung": "Level 1",
         "Lichttechnik Leuchtmittel": "Level 1",
         "Lichttechnik Zubehör": "Level 1",
+        "LED Streifen": "Level 1",
         "LNB": "Level 1",
         "MIDI Controller": "Level 1",
         "Mikrofon": "Level 1",
