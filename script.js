@@ -472,7 +472,7 @@ const ptToLevel = {
         "Stereoanlage": "Level 1",
         "Stereoverstärker": "Level 1",
         "Stimmgerät": "Level 1",
-        "Streaming Box": "Sondertaetigkeit",
+        "Streaming Box": "Level 6",
         "Streichinstrument Zubehör": "Level 1",
         "Streichinstrumente": "Level 1",
         "Stromkabel": "Level 1",
