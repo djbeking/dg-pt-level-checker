@@ -2,6 +2,8 @@
 
 const ptToLevel = {
         "Bauchbänder": "Level 1",
+        "Tischlampe": "Level 2",
+        "Sitzbank": "Level 1",   
         "Netztelefon": "Level 5",
         "Babybadetuch": "Level 1",
         "Babybadewanne": "Level 1",
